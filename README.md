@@ -74,4 +74,6 @@ Get it here: [SharpMonoInjector Repository](https://github.com/warbler/SharpMono
 
 
 
+Mail : lalochesian@gmail.com
+
 //Not created by Me.Just for help im workin on updates.
