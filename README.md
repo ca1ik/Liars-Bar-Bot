@@ -28,11 +28,10 @@ Welcome to the **Liar's Bar Bot Menu** repository! This is a feature-packed chea
 ## 📚 INSTALLATION GUIDE
 
 ### STEP-BY-STEP:
-1. **Download the Files**: Grab the `TruthBar.Dll` and a MonoInjector tool. *(Recommended: [SharpMonoInjector](https://github.com/warbler/SharpMonoInjector))*.
-2. **Rename the DLL**: Rename `TruthBar.Dll` to `ub0.dll` for easier injection. *(Optional)*
-3. **Prepare the Game**: Launch Liar’s Bar.
-4. **Inject the DLL**: Use your injector tool to inject the renamed DLL.
-5. **Enjoy the Cheat Menu! 🚀**
+1. **Download the Files**: Grab the `ub0.Dll` at Main Folder and a MonoInjector tool. *(Recommended: [SharpMonoInjector](https://github.com/warbler/SharpMonoInjector))*.
+2. **Prepare the Game**: Launch Liar’s Bar.
+3. **Inject the DLL**: Use your injector tool to inject the renamed DLL.
+4. **Enjoy the Bot Menu! 🚀**
 
 ---
 
