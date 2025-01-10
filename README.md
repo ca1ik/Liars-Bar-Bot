@@ -4,7 +4,7 @@ Welcome to the **Liar's Bar Bot Menu** repository! This is a feature-packed chea
 
 ---
 
-## 🛠️ FEATURES (v0.1)
+## 🛠️ FEATURES (v1.0)
 
 - **👀 SEE OTHERS' CARDS**
 - **🏆 VIEW THE LAST CARDS PLACED ON THE TABLE**
@@ -16,7 +16,7 @@ Welcome to the **Liar's Bar Bot Menu** repository! This is a feature-packed chea
 
 ---
 
-## 🔄 UPCOMING FEATURES (v0.2+)
+## 🔄 UPCOMING FEATURES (v1.1+)
 
 - ✅ MORE BUG FIXES...
 - 🎲 SUPPORT FOR DICE GAME MODE
