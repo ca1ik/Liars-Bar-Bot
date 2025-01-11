@@ -4,7 +4,7 @@ Welcome to the **Liar's Bar Bot Menu** repository! This is a feature-packed chea
 
 ---
 
-## 🛠️ FEATURES (v0.1)
+## 🛠️ FEATURES (v1.0)
 
 - **👀 SEE OTHERS' CARDS**
 - **🏆 VIEW THE LAST CARDS PLACED ON THE TABLE**
@@ -16,7 +16,7 @@ Welcome to the **Liar's Bar Bot Menu** repository! This is a feature-packed chea
 
 ---
 
-## 🔄 UPCOMING FEATURES (v0.2+)
+## 🔄 UPCOMING FEATURES (v1.1+)
 
 - ✅ MORE BUG FIXES...
 - 🎲 SUPPORT FOR DICE GAME MODE
@@ -28,11 +28,10 @@ Welcome to the **Liar's Bar Bot Menu** repository! This is a feature-packed chea
 ## 📚 INSTALLATION GUIDE
 
 ### STEP-BY-STEP:
-1. **Download the Files**: Grab the `TruthBar.Dll` and a MonoInjector tool. *(Recommended: [SharpMonoInjector](https://github.com/warbler/SharpMonoInjector))*.
-2. **Rename the DLL**: Rename `TruthBar.Dll` to `ub0.dll` for easier injection. *(Optional)*
-3. **Prepare the Game**: Launch Liar’s Bar.
-4. **Inject the DLL**: Use your injector tool to inject the renamed DLL.
-5. **Enjoy the Cheat Menu! 🚀**
+1. **Download the Files**: Grab the `ub0.Dll` at Main Folder and a MonoInjector tool. *(Recommended: [SharpMonoInjector](https://github.com/warbler/SharpMonoInjector))*.
+2. **Prepare the Game**: Launch Liar’s Bar.
+3. **Inject the DLL**: Use your injector tool to inject the renamed DLL.
+4. **Enjoy the Bot Menu! 🚀**
 
 ---
 
@@ -67,5 +66,13 @@ Welcome to the **Liar's Bar Bot Menu** repository! This is a feature-packed chea
 Get it here: [SharpMonoInjector Repository](https://github.com/warbler/SharpMonoInjector)
 
 ---
+
+## 🏆 SCREENSHOT
+
+![Image Description](https://i.ibb.co/Bz9ZpDZ/liar.png)
+
+
+
+Mail : lalochesian@gmail.com
 
 //Not created by Me.Just for help im workin on updates.
