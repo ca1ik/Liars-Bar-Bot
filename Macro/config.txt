@@ -1,6 +1,5 @@
 0
 0
-1MNGmkerC9
 changed.ini (driver)
 5000
 changed.ini
