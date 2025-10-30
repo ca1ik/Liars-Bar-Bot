@@ -4,3 +4,4 @@ myself.ini
 cargo.ini
 settings.ini
 cover.cs
+controller.cs
