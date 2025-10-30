@@ -6,3 +6,4 @@ settings.ini
 cover.cs
 specialUI.cs
 controller.cs
+mappy2.cs
